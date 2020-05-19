@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React SC
+          Learn React SC 2020
         </a>
       </header>
     </div>
